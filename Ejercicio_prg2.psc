@@ -18,8 +18,7 @@ Algoritmo Ejercicio_prg2
 	Escribir "Es en orden inverso";
 	
 	Para i=0 Hasta 4 Con Paso 1 Hacer
-		Escribir vector2[i];
+		Escribir "El orden inverso es " vector2[i];
 	Fin Para
-	
 	
 FinAlgoritmo
